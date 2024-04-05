@@ -1,0 +1,33 @@
+Phần code và ảnh chạy chương trình em để chung folder không cần tách riêng. Cô khó chấm
+
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: nếu tính ra được bằng 0 thì chữ số hàng nghìn bằng 0, chứ không phải không có chữ số hàng nghìn
+Điểm bài tập: 0.75
+
+- Bài 3: units này là list chứ không phải dictionary. Kiến thức vượt ngoài kiến thức lab 1,2
+Điểm bài tập: 0.5
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: nếu trong trường hợp 3 số bằng nhau, thì số lớn thứ hai là số nào?
+Điểm bài tập: 0.75
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: nên tách riêng trường hợp song song và trùng nhau
+Điểm bài tập: 1.0
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: sử dụng kiến thức vượt ngoài kiến thức lab 1,2
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 2: 8.5
